@@ -3,6 +3,7 @@ body{
 }
 img{
 	width: 100%;
+	vertical-align: top;
 }
 h4{
 	width: 100%;
