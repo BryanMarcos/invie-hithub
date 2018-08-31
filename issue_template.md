@@ -1,1 +1,4 @@
-##¿Como puedo replicar el problema?
+## ¿Como puedo replicar el problema?
+porfavor explicanos como replicar el problema paso a paso y sistema operativo donde ocurre 
+## ¿En que versión de envie ocurre?
+Si este problema ocurre en todas las versiones porfavor tambien mencionarlo
